@@ -1,0 +1,6 @@
+postgres:
+  dbname: area
+  dbuser: postgres
+  dbpassword: postgres2017
+  dbhost: 192.168.100.9
+  dbport: 8555
